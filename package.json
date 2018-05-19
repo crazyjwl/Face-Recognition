@@ -11,14 +11,10 @@
     "react-tilt": "^0.1.4",
     "tachyons": "^4.9.1"
   },
-  "homepage": "http://crazyjwl.github.io/Face-Recognition/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "devDependencies": {
-    "gh-pages": "^1.1.0"
   }
 }
